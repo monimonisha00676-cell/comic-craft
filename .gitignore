@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+comiccraft-env/
+
+.env
+
+static/panels/*.png
+exports/*.pdf
+
+.vscode/
+.idea/
+.DS_Store
